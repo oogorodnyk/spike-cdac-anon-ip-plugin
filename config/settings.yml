@@ -1,0 +1,4 @@
+plugins:
+  anon_ip_enabled:
+    default: true
+    client: true
